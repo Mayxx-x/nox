@@ -42,7 +42,7 @@ export default function Home() {
 
         {isOpen &&
           <div onClick={toggle} className='bg-[#0007] fixed top-0 left-0 right-0 z-50 p-4 overflow-x-hidden overflow-y-auto md:inset-0 h-[calc(100%-1rem)] max-h-full'>
-            <article className='relative mx-auto max-w-md rounded-lg bg-[#331247b9] p-4 py-16 mt-40'>
+            <article className='relative mx-auto max-w-md rounded-lg bg-[#331247] p-4 py-16 mt-40'>
               <h2 className='text-center w-full'>Voce me deve um beijo agora 💋💋💋</h2>
             </article>
           </div>
